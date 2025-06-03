@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "geW23CNN6FZOD4BoRFVVbWN+i4j3zYsmSlmwU/0Alfc=",
-  "Source": "DWETL.Api",
-  "BasePath": "_content/DWETL.Api",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"hLOUSNdqPlkympt04zHAEPbJ1t3e3M5/Gx35Ha58SwE=","Source":"DWETL.Api","BasePath":"_content/DWETL.Api","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

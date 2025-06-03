@@ -32,3 +32,37 @@ C:\Users\gmourad\Documents\Projeto ETL\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\re
 C:\Users\gmourad\Documents\Projeto ETL\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\DWETL.Api.pdb
 C:\Users\gmourad\Documents\Projeto ETL\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\DWETL.Api.genruntimeconfig.cache
 C:\Users\gmourad\Documents\Projeto ETL\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\ref\DWETL.Api.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\DW\Conta_3fa85f64-5717-4562-b3fc-2c963f66afa6.json
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\DW\Pedido_3fa85f64-5717-4562-b3fc-2c963f66afa6.json
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\DWETL.Api.staticwebassets.endpoints.json
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\DWETL.Api.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\DWETL.Api.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\DWETL.Api.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\DWETL.Api.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\DWETL.Api.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\DWETL.Api.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\DWETL.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\DWETL.Api.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\DWETL.Api.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\DWETL.Api.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\DWETL.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\DWETL.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\DWETL.Api.sourcelink.json
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\scopedcss\bundle\DWETL.Api.styles.css
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\DWETL.Api.csproj.Up2Date
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\DWETL.Api.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\refint\DWETL.Api.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\DWETL.Api.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\DWETL.Api.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\projeto ETL 2\Projeto-ETL\DWETL.Api\obj\Debug\net8.0\ref\DWETL.Api.dll

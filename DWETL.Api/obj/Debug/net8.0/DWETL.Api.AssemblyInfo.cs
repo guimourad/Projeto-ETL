@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DWETL.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c236cc3b3a1d87e4e792ee406237f89ce5c7d3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16f1a727f8120f5e365f1bbee7cd7056dbc8bdda")]
 [assembly: System.Reflection.AssemblyProductAttribute("DWETL.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DWETL.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
