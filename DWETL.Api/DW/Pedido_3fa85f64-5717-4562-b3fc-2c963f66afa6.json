@@ -1,0 +1,13 @@
+{
+  "Id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "ClienteId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "Itens": [
+    {
+      "Produto": "teclado",
+      "Quantidade": 120,
+      "PrecoUnitario": 580
+    }
+  ],
+  "ValorTotal": 69600,
+  "DataFaturamento": "2025-06-03T15:09:58.457866Z"
+}
